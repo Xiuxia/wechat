@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\IT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\shadow.9.png",
+        "source": "D:\\android\\AndroidStudioProjects\\IT\\app\\src\\main\\res\\mipmap-hdpi\\shadow.9.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\IT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\AndroidStudioProjects\\IT\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\AndroidStudioProjects\\IT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\head_bg.png",
+        "source": "D:\\android\\AndroidStudioProjects\\IT\\app\\src\\main\\res\\mipmap-hdpi\\head_bg.png"
+    }
+]
